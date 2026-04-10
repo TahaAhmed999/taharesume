@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-[cite_start]name: "CHAUDHARY TAHA AHMED [cite: 2]"
-[cite_start]title: "Aspiring ML Engineer and Full Stack Developer [cite: 5]"
-[cite_start]email: "taha04473@gmail.com [cite: 4]"
+name: "CHAUDHARY TAHA AHMED"
+title: "Aspiring ML Engineer and Full Stack Developer"
+email: "taha04473@gmail.com"
 website: ""
 
 # Dark Mode (true/false/never)
@@ -19,127 +19,127 @@ linkedin_username: taha-ahmed2003
 
 # Additional icon links
 additional_links:
-  - [cite_start]title: "Direct LinkedIn Profile [cite: 4]"
+  - title: "Direct LinkedIn Profile"
     icon: fab fa-linkedin
     url: https://www.linkedin.com/in/taha-ahmed2003
-  - [cite_start]title: "Phone: +92 300 8815110 [cite: 4]"
+  - title: "Phone: +92 300 8815110"
     icon: fas fa-phone
     url: tel:+923008815110
 
 # About Section
 about_content: |
-  I am an aspiring ML Engineer and Full Stack Developer with extensive practical experience in Generative AI, NLP, and RAG architectures[cite: 5]. I am skilled in deploying complex models using FastAPI and Neo4j, backed by a rigorous academic background[cite: 6]. I have a proven ability to lead development teams and deliver end-to-end solutions[cite: 7].
+  I am an aspiring ML Engineer and Full Stack Developer with extensive practical experience in Generative AI, NLP, and RAG architectures. I am skilled in deploying complex models using FastAPI and Neo4j, backed by a rigorous academic background. I have a proven ability to lead development teams and deliver end-to-end solutions.
 
 content:
   - title: Projects
     layout: list
     content:
       - layout: top-middle
-        [cite_start]title: "Pakistani Legal Chatbot (MERN + FastAPI + Neo4j) [cite: 35]"
+        title: "Pakistani Legal Chatbot (MERN + FastAPI + Neo4j)"
         link: waqeelailegalchatbot.vercel.app/chat/69304c2347752d8600224cea
-        [cite_start]sub_title: "Lead Developer [cite: 36]"
-        [cite_start]caption: "Sept 2025-Present [cite: 37]"
+        sub_title: "Lead Developer"
+        caption: "Sept 2025-Present"
         additional_links:
-          - [cite_start]title: "Walk-through Video [cite: 44]"
+          - title: "Walk-through Video"
             icon: fab fa-youtube
             url: https://www.youtube.com/watch?v=9Yx778WNGjw
         description: |
-          An Al-powered legal assistant for Pakistani law that leverages Retrieval-Augmented Generation (RAG) to deliver accurate legal reasoning along with relevant case citations[cite: 38].
+          An Al-powered legal assistant for Pakistani law that leverages Retrieval-Augmented Generation (RAG) to deliver accurate legal reasoning along with relevant case citations.
           
-          * [cite_start]Architected a context-aware RAG pipeline using LangGraph and Neo4j, enabling the system to distinguish between general statutes and specific case law databases[cite: 39].
-          * [cite_start]Deployed the custom chatbot as a FastAPI microservice[cite: 40].
-          * [cite_start]Integrated the service into a secure MERN stack platform with role-based access control for Lawyers, Academics, and the Public[cite: 41].
-          * [cite_start]Handled security vulnerabilities using STRIDE framework and tools like SonarQube[cite: 42].
+          * Architected a context-aware RAG pipeline using LangGraph and Neo4j, enabling the system to distinguish between general statutes and specific case law databases.
+          * Deployed the custom chatbot as a FastAPI microservice.
+          * Integrated the service into a secure MERN stack platform with role-based access control for Lawyers, Academics, and the Public.
+          * Handled security vulnerabilities using STRIDE framework and tools like SonarQube.
 
       - layout: top-middle
-        [cite_start]title: "Marketplace Website (MERN) [cite: 45]"
+        title: "Marketplace Website (MERN)"
         link: group-4-nu.vercel.app
-        [cite_start]sub_title: "Project Lead (Team of 5) [cite: 46]"
-        [cite_start]caption: "Jan 2025-May 2025 [cite: 53]"
+        sub_title: "Project Lead (Team of 5)"
+        caption: "Jan 2025-May 2025"
         additional_links:
-          - [cite_start]title: "Walk-through Video [cite: 51]"
+          - title: "Walk-through Video"
             icon: fab fa-youtube
             url: https://youtu.be/zedYnsa0biA
         description: |
-          A peer-to-peer marketplace for LUMS faculty & students to buy/sell campus goods[cite: 47].
+          A peer-to-peer marketplace for LUMS faculty & students to buy/sell campus goods.
           
-          * [cite_start]End-to-end implementation of product listings, chat, and admin dashboard[cite: 48].
-          * [cite_start]Added Al features: image, product name and category based description generation by AI[cite: 49].
+          * End-to-end implementation of product listings, chat, and admin dashboard.
+          * Added Al features: image, product name and category based description generation by AI.
 
       - layout: top-middle
-        [cite_start]title: "Deep Learning, Machine Learning and NLP Projects [cite: 52]"
-        [cite_start]sub_title: "Researcher & Developer [cite: 52]"
-        [cite_start]caption: "Jan 2024-Present [cite: 54]"
+        title: "Deep Learning, Machine Learning and NLP Projects"
+        sub_title: "Researcher & Developer"
+        caption: "Jan 2024-Present"
         description: |
-          * Generative Models: Trained and fine-tuned Transformer and Diffusion architectures for NLP tasks (text generation, summarization) and computer-vision tasks (image denoising, inpainting)[cite: 57].
-          * Experimental Tuning: Explored various tokenization schemes, attention-head configurations, and sampling strategies to optimize generation quality[cite: 58].
-          * Discriminative Models: Scraped news articles from multiple websites, then built and evaluated classification pipelines (Neural Networks, Naive Bayes) to categorize articles (Entertainment, Sports, etc.), achieving > 95% accuracy[cite: 59].
-          * Developed a retrieval-augmented generation (RAG) chatbot for medical QA, integrating vector retrieval with Large Language Models (LLMs) to ensure domain-specific accuracy[cite: 60].
-          * Implemented foundational NLP pipelines including N-gram models, LSTMs for sequence labeling, and Transformer-based architectures for sentiment analysis and machine translation[cite: 61].
+          * Generative Models: Trained and fine-tuned Transformer and Diffusion architectures for NLP tasks (text generation, summarization) and computer-vision tasks (image denoising, inpainting).
+          * Experimental Tuning: Explored various tokenization schemes, attention-head configurations, and sampling strategies to optimize generation quality.
+          * Discriminative Models: Scraped news articles from multiple websites, then built and evaluated classification pipelines (Neural Networks, Naive Bayes) to categorize articles (Entertainment, Sports, etc.), achieving > 95% accuracy.
+          * Developed a retrieval-augmented generation (RAG) chatbot for medical QA, integrating vector retrieval with Large Language Models (LLMs) to ensure domain-specific accuracy.
+          * Implemented foundational NLP pipelines including N-gram models, LSTMs for sequence labeling, and Transformer-based architectures for sentiment analysis and machine translation.
 
       - layout: top-middle
-        [cite_start]title: "Introduction to Blockchain Technologies and Applications [cite: 62]"
-        [cite_start]sub_title: "Researcher & Developer [cite: 63]"
-        [cite_start]caption: "Sept 2025-Dec 2025 [cite: 64]"
+        title: "Introduction to Blockchain Technologies and Applications"
+        sub_title: "Researcher & Developer"
+        caption: "Sept 2025-Dec 2025"
         description: |
-          * Acquired a foundational understanding of distributed ledger technologies, consensus mechanisms (PoW, PoS), and cryptographic authentication protocols[cite: 65].
-          * Developed and deployed smart contracts in Solidity language, gaining hands-on experience with Ethereum state management and transaction structures[cite: 66].
-          * Analyzed blockchain architecture through Bitcoin and Ethereum case studies, while evaluating applications in DeFi, supply chain, and digital identity[cite: 67].
+          * Acquired a foundational understanding of distributed ledger technologies, consensus mechanisms (PoW, PoS), and cryptographic authentication protocols.
+          * Developed and deployed smart contracts in Solidity language, gaining hands-on experience with Ethereum state management and transaction structures.
+          * Analyzed blockchain architecture through Bitcoin and Ethereum case studies, while evaluating applications in DeFi, supply chain, and digital identity.
 
   - title: Experience
     layout: list
     content:
       - layout: left
-        [cite_start]title: "Lahore University of Management Sciences (LUMS) [cite: 16]"
-        [cite_start]sub_title: "Teaching Assistant - Advanced Programming [cite: 17]"
-        [cite_start]caption: "Jan 2026-Present [cite: 21]"
+        title: "Lahore University of Management Sciences (LUMS)"
+        sub_title: "Teaching Assistant - Advanced Programming"
+        caption: "Jan 2026-Present"
         description: |
-          * Facilitated a programming-intensive curriculum focused on systematically solving complex problems using Functional (Haskell) and Event-Driven/Client-Server (TypeScript) paradigms[cite: 22].
-          * Guided students through rigorous implementation challenges involving advanced syntax, abstraction, top-down design, and asynchronous operations[cite: 23].
+          * Facilitated a programming-intensive curriculum focused on systematically solving complex problems using Functional (Haskell) and Event-Driven/Client-Server (TypeScript) paradigms.
+          * Guided students through rigorous implementation challenges involving advanced syntax, abstraction, top-down design, and asynchronous operations.
 
       - layout: left
-        [cite_start]title: "Lahore University of Management Sciences (LUMS) [cite: 24]"
-        [cite_start]sub_title: "Teaching Assistant - Fundamentals of Computer Systems [cite: 25]"
-        [cite_start]caption: "Sept 2024-Dec 2024 [cite: 26]"
+        title: "Lahore University of Management Sciences (LUMS)"
+        sub_title: "Teaching Assistant - Fundamentals of Computer Systems"
+        caption: "Sept 2024-Dec 2024"
         description: |
-          * Delivered weekly tutorials for a 150+ student cohort, covering low-level concepts such as memory hierarchies, instruction pipelining, and assembly language[cite: 27].
-          * Conducted office hours and graded assessments to strengthen student understanding of computer architecture and system design[cite: 28].
+          * Delivered weekly tutorials for a 150+ student cohort, covering low-level concepts such as memory hierarchies, instruction pipelining, and assembly language.
+          * Conducted office hours and graded assessments to strengthen student understanding of computer architecture and system design.
 
       - layout: left
-        [cite_start]title: "Bindia (Denmark) [cite: 29]"
-        [cite_start]sub_title: "Web Development Intern [cite: 29]"
-        [cite_start]caption: "Aug 2024-Sept 2024 [cite: 30]"
+        title: "Bindia (Denmark)"
+        sub_title: "Web Development Intern"
+        caption: "Aug 2024-Sept 2024"
         description: |
-          * Collaborated with the Pakistan-based team to support digital operations for a Denmark-based restaurant chain[cite: 31].
-          * Gained hands-on exposure to the software development lifecycle (SDLC), actively observing production workflows, bug tracking procedures[cite: 32].
-          * Participated in cross-functional team meetings and daily stand-ups, analyzing corporate communication structures[cite: 33].
+          * Collaborated with the Pakistan-based team to support digital operations for a Denmark-based restaurant chain.
+          * Gained hands-on exposure to the software development lifecycle (SDLC), actively observing production workflows, bug tracking procedures.
+          * Participated in cross-functional team meetings and daily stand-ups, analyzing corporate communication structures.
 
   - title: Education
     layout: list
     content:
       - layout: left
-        [cite_start]title: "Lahore University of Management Sciences (LUMS) [cite: 9]"
-        [cite_start]sub_title: "Bachelor of Science in Computer Science [cite: 10]"
-        [cite_start]caption: "Expected May 2026 [cite: 18]"
+        title: "Lahore University of Management Sciences (LUMS)"
+        sub_title: "Bachelor of Science in Computer Science"
+        caption: "Expected May 2026"
         description: |
-          * CGPA: 3.77/4.00 [cite: 11]
-          * Honors: Dean's Honor List (2024, 2025, 2026) [cite: 11]
+          * CGPA: 3.77/4.00
+          * Honors: Dean's Honor List (2024, 2025, 2026)
 
       - layout: left
-        [cite_start]title: "Beaconhouse College Campus Gulberg [cite: 12]"
-        [cite_start]sub_title: "A Levels [cite: 13]"
-        [cite_start]caption: "2022 [cite: 19]"
+        title: "Beaconhouse College Campus Gulberg"
+        sub_title: "A Levels"
+        caption: "2022"
         description: |
-          * Achieved 3 A*, and placement on the honors board[cite: 14].
+          * Achieved 3 A*, and placement on the honors board.
 
   - title: Technical Skills
     layout: text
     content: |
-      * **Languages:** C/C++, Python, JavaScript, TypeScript, Haskell, SQL, Solidity[cite: 69].
-      * **Frameworks & Libraries:** React.js, Node.js, FastAPI, LangChain, LangGraph[cite: 70].
-      * **Tools & Databases:** Docker, Neo4j, MongoDB, Postman, SonarQube, VS Code[cite: 71].
-      * **Core Competencies:** RAG Architectures, NLP, Generative AI, Project Management, Agile Development[cite: 72].
-      * **Languages (Spoken):** English (Fluent), Urdu (Fluent)[cite: 72].
+      * **Languages:** C/C++, Python, JavaScript, TypeScript, Haskell, SQL, Solidity.
+      * **Frameworks & Libraries:** React.js, Node.js, FastAPI, LangChain, LangGraph.
+      * **Tools & Databases:** Docker, Neo4j, MongoDB, Postman, SonarQube, VS Code.
+      * **Core Competencies:** RAG Architectures, NLP, Generative AI, Project Management, Agile Development.
+      * **Languages (Spoken):** English (Fluent), Urdu (Fluent).
 
 # Footer
 footer_show_references: false
